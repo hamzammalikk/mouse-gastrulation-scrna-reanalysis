@@ -2,7 +2,7 @@
 
 A step-by-step re-analysis of a subset of the Pijuan-Sala et al. (2019) mouse gastrulation atlas using Scanpy and scVI. This is a learning project: the aim was to practise a careful single-cell workflow and to document its pitfalls, **not** to report new biology.
 
-Author: Muhammad Hamza Malik. Built with guidance from Claude (Anthropic) acting as a mentor; every step was run and inspected by the author.
+Author: Muhammad Hamza Malik. Built with guidance from Claude (Anthropic) acting as a coding assistant; every step was run and inspected by the author.
 
 ## Data
 
